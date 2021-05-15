@@ -1,2 +1,2 @@
 # pikachu
-python turtle pikachu drwaings
+python turtle pikachu drawings
